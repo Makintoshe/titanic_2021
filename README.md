@@ -4,6 +4,8 @@ Première version : Dans ce notebook, je me permets de résoudre un problème cl
 
 Dans sa dernière version (fichiers actuels) : plusieurs améliorations ont été faites, il s'agit notamment de l'encodage des variables catégorielles, de l'explicabilité des algorithmes, de l'inférence sur l'age bref un meilleur prétraitement a été opéré.
 
+En effet, ceci n'est pas exhaustif, et donc il est possible d'aller encore plus loin et d'avoir un meilleur score.
+
 ### Bon à savoir :
 
 - Lire attentivement le contenu
